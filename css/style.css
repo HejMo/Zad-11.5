@@ -1,0 +1,11 @@
+main {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	background-color: lightblue;
+	padding: 5px;
+}
+a {
+	display: block;
+	margin: 10px 0;
+}
